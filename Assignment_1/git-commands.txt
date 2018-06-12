@@ -1,0 +1,18 @@
+1. git init:- It create a new git repository or Re-initialize an existing one Git repository.  
+				syntax:- git init
+2. git status:- It is used to view the state of working area or we can say that to check the status of repository at any time.
+				syntax:- git status
+
+3. git commit:- It is used to create checkpoints. it will show the current changes done in the working area or repository.
+				syntax:- git commit -m "......"
+4. git add:- It is used to adds a change in the current working directory.
+				syntax:- git add "File name"
+5. git push:- It is used to add the local code to the master code. In other words it is used to do final updates on our master documentation or to upload final documentation to the cloud.
+				syntax:- git push -u origin master
+6. git log:- It is use to show all the checkpoints. It will show us commit logs.
+				syntax:- git log
+7. git config:- It is used to get or set repository. It will introduce to yourself to git.
+				syntax:- git config [<options>]
+						 git config --global user.name "User name"
+8. git remote:- It is used to add new remote. 
+				syntax:-git remote  add origin "url"
