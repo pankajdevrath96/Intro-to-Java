@@ -1,8 +1,8 @@
 
 public class FunctionOverloading {
-	void print()
+	void print(String x)
 	{
-		System.out.println("This function doesn't accept any argument");
+		System.out.println("This function accept null an argument");
 	}
 	void print(int a)
 	{
@@ -14,7 +14,8 @@ public class FunctionOverloading {
 	}
 	public static void main(String[] args) {
 		FunctionOverloading obj=new FunctionOverloading();
-		obj.print();
+		String m=null; 
+		obj.print(m);
 		obj.print(2);
 		float x=2.3f;
 		obj.print(x);
