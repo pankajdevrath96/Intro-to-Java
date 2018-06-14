@@ -2,7 +2,7 @@
 public class FunctionOverloading {
 	void print(String x)
 	{
-		System.out.println("This function accept null an argument");
+		System.out.println("This function accept null as argument");
 	}
 	void print(int a)
 	{
