@@ -16,7 +16,7 @@ public class Q2 {
 			map.put(((Integer)sc.nextInt()),sc.next());
 		  for(Map.Entry e:map.entrySet())
 		   System.out.println(e.getKey()+" "+e.getValue());
-		 }
+		 } 
 }
 
 
