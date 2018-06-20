@@ -1,5 +1,4 @@
 File Name,File Path
-File Name,File Path
 .DS_Store,/Users/macbook/Desktop/Basic_Java/Assignment_1/.DS_Store
 git-commands.txt,/Users/macbook/Desktop/Basic_Java/Assignment_1/git-commands.txt
 Screen Shot 2018-06-19 at 3.50.31 PM.png,/Users/macbook/Desktop/Basic_Java/Assignment_1/Screen Shot 2018-06-19 at 3.50.31 PM.png
@@ -42,7 +41,6 @@ Q1.java,/Users/macbook/Desktop/Basic_Java/Assignment_10/Q1.java
 Screen Shot 2018-06-19 at 4.02.16 PM.png,/Users/macbook/Desktop/Basic_Java/Assignment_10/Screen Shot 2018-06-19 at 4.02.16 PM.png
 Screen Shot 2018-06-21 at 4.23.33 AM.png,/Users/macbook/Desktop/Basic_Java/Assignment_11/Screen Shot 2018-06-21 at 4.23.33 AM.png
 .DS_Store,/Users/macbook/Desktop/Basic_Java/Assignment_11/.DS_Store
-abc.txt,/Users/macbook/Desktop/Basic_Java/Assignment_11/abc.txt
 Q2.java,/Users/macbook/Desktop/Basic_Java/Assignment_11/Q2.java
 Screen Shot 2018-06-21 at 4.23.48 AM.png,/Users/macbook/Desktop/Basic_Java/Assignment_11/Screen Shot 2018-06-21 at 4.23.48 AM.png
 Q1.java,/Users/macbook/Desktop/Basic_Java/Assignment_11/Q1.java
@@ -90,12 +88,16 @@ Screen Shot 2018-06-19 at 3.54.30 PM.png,/Users/macbook/Desktop/Basic_Java/Assig
 EvenUptoN.java,/Users/macbook/Desktop/Basic_Java/Assignment_4/EvenUptoN.java
 Pattern2nd.java,/Users/macbook/Desktop/Basic_Java/Assignment_4/Pattern2nd.java
 Screen Shot 2018-06-19 at 3.54.16 PM.png,/Users/macbook/Desktop/Basic_Java/Assignment_4/Screen Shot 2018-06-19 at 3.54.16 PM.png
+MERGE_MODE,/Users/macbook/Desktop/Basic_Java/.git/MERGE_MODE
+ORIG_HEAD,/Users/macbook/Desktop/Basic_Java/.git/ORIG_HEAD
+MERGE_MSG,/Users/macbook/Desktop/Basic_Java/.git/MERGE_MSG
 config,/Users/macbook/Desktop/Basic_Java/.git/config
 c1751bc79410e5591ad86f88f7595632cd9f4d,/Users/macbook/Desktop/Basic_Java/.git/objects/0d/c1751bc79410e5591ad86f88f7595632cd9f4d
 7cc83780690913c6a9273303e6ee1daec8c018,/Users/macbook/Desktop/Basic_Java/.git/objects/0d/7cc83780690913c6a9273303e6ee1daec8c018
 e7c908bb77140b771c56f1f83558731544610c,/Users/macbook/Desktop/Basic_Java/.git/objects/59/e7c908bb77140b771c56f1f83558731544610c
 90716cbfe5753ccd50585239842a58fc3d442f,/Users/macbook/Desktop/Basic_Java/.git/objects/92/90716cbfe5753ccd50585239842a58fc3d442f
 c42cf76080876d1ca46879c19b047642cc1ca6,/Users/macbook/Desktop/Basic_Java/.git/objects/92/c42cf76080876d1ca46879c19b047642cc1ca6
+f795221807ac55449dcbac1e7f1a3d36e278b3,/Users/macbook/Desktop/Basic_Java/.git/objects/0c/f795221807ac55449dcbac1e7f1a3d36e278b3
 9e979c845a9b3d72c306746f05cc94bca13942,/Users/macbook/Desktop/Basic_Java/.git/objects/50/9e979c845a9b3d72c306746f05cc94bca13942
 01fb533076b1c80756c59ab57e5d9eccabd4a2,/Users/macbook/Desktop/Basic_Java/.git/objects/3b/01fb533076b1c80756c59ab57e5d9eccabd4a2
 c09b67729f0070b9c93f5efea28f0f906656b9,/Users/macbook/Desktop/Basic_Java/.git/objects/9b/c09b67729f0070b9c93f5efea28f0f906656b9
@@ -106,9 +108,11 @@ e91e5d02a28e3977b08d8472a20b81082b056b,/Users/macbook/Desktop/Basic_Java/.git/ob
 92c173df4bcc40d3cb9f2b5379fb7703d499a2,/Users/macbook/Desktop/Basic_Java/.git/objects/3c/92c173df4bcc40d3cb9f2b5379fb7703d499a2
 976a25d1fa2bc561c4395d796f00c38d2e1400,/Users/macbook/Desktop/Basic_Java/.git/objects/3c/976a25d1fa2bc561c4395d796f00c38d2e1400
 2de77c78c8957cd5701f3da57a7e1f6fb97166,/Users/macbook/Desktop/Basic_Java/.git/objects/56/2de77c78c8957cd5701f3da57a7e1f6fb97166
+711e78eb28dc4aad240cbfbad389c94ef667c3,/Users/macbook/Desktop/Basic_Java/.git/objects/3d/711e78eb28dc4aad240cbfbad389c94ef667c3
 e63cf36771bdc7510ecbe8962a8fb39ffa9e9f,/Users/macbook/Desktop/Basic_Java/.git/objects/94/e63cf36771bdc7510ecbe8962a8fb39ffa9e9f
 15f9feb4b5d4ab02b1cb1a737fae14407db681,/Users/macbook/Desktop/Basic_Java/.git/objects/5a/15f9feb4b5d4ab02b1cb1a737fae14407db681
 2da69d9f1b87a7440e7a98a646c6a71bed4e15,/Users/macbook/Desktop/Basic_Java/.git/objects/5a/2da69d9f1b87a7440e7a98a646c6a71bed4e15
+557d00c9221fa771f75b8105a388ab7a46a90c,/Users/macbook/Desktop/Basic_Java/.git/objects/33/557d00c9221fa771f75b8105a388ab7a46a90c
 eca2d3a87fcfc1d09650803c98c4a9b4288c57,/Users/macbook/Desktop/Basic_Java/.git/objects/05/eca2d3a87fcfc1d09650803c98c4a9b4288c57
 b7e727553df08f98b6caaa488f5ab37e1f13db,/Users/macbook/Desktop/Basic_Java/.git/objects/9d/b7e727553df08f98b6caaa488f5ab37e1f13db
 1aafd4da08a95a48ce3ef63249c85cdadee25b,/Users/macbook/Desktop/Basic_Java/.git/objects/9c/1aafd4da08a95a48ce3ef63249c85cdadee25b
@@ -118,8 +122,10 @@ e3e4f4d2c1c29a0ae216176aa5587a30a66fec,/Users/macbook/Desktop/Basic_Java/.git/ob
 f0c99a4c9fe172e58543e877ada04afe4ac2ca,/Users/macbook/Desktop/Basic_Java/.git/objects/d9/f0c99a4c9fe172e58543e877ada04afe4ac2ca
 6e4383c27d7de260825910decffc84c790bea2,/Users/macbook/Desktop/Basic_Java/.git/objects/d9/6e4383c27d7de260825910decffc84c790bea2
 67b875303471f1f9163e0c413a95559e0abc48,/Users/macbook/Desktop/Basic_Java/.git/objects/d9/67b875303471f1f9163e0c413a95559e0abc48
+c08eb02c08ec6bd4fd4abb39c749aa65d1e57f,/Users/macbook/Desktop/Basic_Java/.git/objects/ac/c08eb02c08ec6bd4fd4abb39c749aa65d1e57f
 9ebbd2be0dedb120f3b7cb0d087d0f961a17ee,/Users/macbook/Desktop/Basic_Java/.git/objects/bb/9ebbd2be0dedb120f3b7cb0d087d0f961a17ee
 48ae16f220a18ca45c5491d00179f48867236b,/Users/macbook/Desktop/Basic_Java/.git/objects/b3/48ae16f220a18ca45c5491d00179f48867236b
+919407f9aa236bfb2b3c99459890558ba8cb4f,/Users/macbook/Desktop/Basic_Java/.git/objects/df/919407f9aa236bfb2b3c99459890558ba8cb4f
 3f1e5e90e2af4ec24df9b9e42e5628b8a67b0b,/Users/macbook/Desktop/Basic_Java/.git/objects/da/3f1e5e90e2af4ec24df9b9e42e5628b8a67b0b
 687607d1ad7cdb18f2f9a2ce8a19898f11e9af,/Users/macbook/Desktop/Basic_Java/.git/objects/da/687607d1ad7cdb18f2f9a2ce8a19898f11e9af
 e5fdc20f20cc4a340d2a24799d143178446b54,/Users/macbook/Desktop/Basic_Java/.git/objects/a5/e5fdc20f20cc4a340d2a24799d143178446b54
@@ -153,6 +159,7 @@ f1ea9ba6435b436c11b5cd0b224ed07da9ad97,/Users/macbook/Desktop/Basic_Java/.git/ob
 1a78ffa3a733d601cb71da61a2d6103c40b2da,/Users/macbook/Desktop/Basic_Java/.git/objects/7e/1a78ffa3a733d601cb71da61a2d6103c40b2da
 4e2af39dfff9ea7acf666e478630ece96a8e05,/Users/macbook/Desktop/Basic_Java/.git/objects/4c/4e2af39dfff9ea7acf666e478630ece96a8e05
 90614a5166c211cb32f2ebf50af6d0fb73a0c4,/Users/macbook/Desktop/Basic_Java/.git/objects/21/90614a5166c211cb32f2ebf50af6d0fb73a0c4
+6e18b0a7da2e39794cc24bec39c4d93ff12894,/Users/macbook/Desktop/Basic_Java/.git/objects/21/6e18b0a7da2e39794cc24bec39c4d93ff12894
 4c1a8e7eef35b81c24fc5216f90b592043d0c1,/Users/macbook/Desktop/Basic_Java/.git/objects/4d/4c1a8e7eef35b81c24fc5216f90b592043d0c1
 5fae4b0e832fa6a59c58344bccf2e594b1401f,/Users/macbook/Desktop/Basic_Java/.git/objects/75/5fae4b0e832fa6a59c58344bccf2e594b1401f
 6dde144b538cea201cd380efcf9be1c1a45925,/Users/macbook/Desktop/Basic_Java/.git/objects/81/6dde144b538cea201cd380efcf9be1c1a45925
@@ -187,6 +194,7 @@ bb7e1721f322a024ace8c3e87f6555ff448bff,/Users/macbook/Desktop/Basic_Java/.git/ob
 c35f9f2321e4f387db60134d48a1eab9c7e9d4,/Users/macbook/Desktop/Basic_Java/.git/objects/d3/c35f9f2321e4f387db60134d48a1eab9c7e9d4
 ff2010ab9b4d7dff20e6f8c929fe375df323bc,/Users/macbook/Desktop/Basic_Java/.git/objects/a0/ff2010ab9b4d7dff20e6f8c929fe375df323bc
 06266c44e0d508c8c716a6bdf1011a741a66fa,/Users/macbook/Desktop/Basic_Java/.git/objects/b8/06266c44e0d508c8c716a6bdf1011a741a66fa
+47ceeb547f68bc71050d1f6b2f5cd2b0a9525e,/Users/macbook/Desktop/Basic_Java/.git/objects/b1/47ceeb547f68bc71050d1f6b2f5cd2b0a9525e
 e55ebf33edcaa990572a991918492f26cc6f33,/Users/macbook/Desktop/Basic_Java/.git/objects/dd/e55ebf33edcaa990572a991918492f26cc6f33
 a4faf9d83e5b84b50c26b836a9d6e60e5204cf,/Users/macbook/Desktop/Basic_Java/.git/objects/dc/a4faf9d83e5b84b50c26b836a9d6e60e5204cf
 fd57b071845bf7ad423678d5f80b334fb34985,/Users/macbook/Desktop/Basic_Java/.git/objects/dc/fd57b071845bf7ad423678d5f80b334fb34985
@@ -227,12 +235,16 @@ c331336c391a5783296b6e1714f9df763bb091,/Users/macbook/Desktop/Basic_Java/.git/ob
 9fc3cb60546b7cac771032cc34b54aec466d74,/Users/macbook/Desktop/Basic_Java/.git/objects/c2/9fc3cb60546b7cac771032cc34b54aec466d74
 33e8df3005bf2165cd6dcc39967b1eb6598613,/Users/macbook/Desktop/Basic_Java/.git/objects/f6/33e8df3005bf2165cd6dcc39967b1eb6598613
 b8ca1847c3e90d4e933d0d655eeb5c88f7b958,/Users/macbook/Desktop/Basic_Java/.git/objects/e9/b8ca1847c3e90d4e933d0d655eeb5c88f7b958
+c90dfd1c2aa52a5abb467b24faa92c64850839,/Users/macbook/Desktop/Basic_Java/.git/objects/f1/c90dfd1c2aa52a5abb467b24faa92c64850839
+d2ca8eaa5202df78939a11b7a854a4423df2c6,/Users/macbook/Desktop/Basic_Java/.git/objects/cb/d2ca8eaa5202df78939a11b7a854a4423df2c6
 bd1ff4b819e502c59c8d7e6193e6f2d854fc48,/Users/macbook/Desktop/Basic_Java/.git/objects/ce/bd1ff4b819e502c59c8d7e6193e6f2d854fc48
 aef7a6454ae032a4b6318068b934dd495009eb,/Users/macbook/Desktop/Basic_Java/.git/objects/ce/aef7a6454ae032a4b6318068b934dd495009eb
 4d56076d9bf4669ac1e628d8e27de3a922a646,/Users/macbook/Desktop/Basic_Java/.git/objects/48/4d56076d9bf4669ac1e628d8e27de3a922a646
 d3af451551f001f5fd639ca7b8999f9f365084,/Users/macbook/Desktop/Basic_Java/.git/objects/70/d3af451551f001f5fd639ca7b8999f9f365084
+d0fa97657b90b1d1c853e8e6f19beb7e31e20b,/Users/macbook/Desktop/Basic_Java/.git/objects/84/d0fa97657b90b1d1c853e8e6f19beb7e31e20b
 6db5190f7bf1af95f162b1e937b0f177466f0c,/Users/macbook/Desktop/Basic_Java/.git/objects/84/6db5190f7bf1af95f162b1e937b0f177466f0c
 33105903dcd53fa1c22701beda9e8b9989fb5f,/Users/macbook/Desktop/Basic_Java/.git/objects/4a/33105903dcd53fa1c22701beda9e8b9989fb5f
+ef9474bed08d01d758373ab1d2f0673e7b5522,/Users/macbook/Desktop/Basic_Java/.git/objects/23/ef9474bed08d01d758373ab1d2f0673e7b5522
 5fbce510188be3c7c2057d2423348d2eb11d94,/Users/macbook/Desktop/Basic_Java/.git/objects/15/5fbce510188be3c7c2057d2423348d2eb11d94
 db55a3847352909e924ec48a4579c5743ed507,/Users/macbook/Desktop/Basic_Java/.git/objects/15/db55a3847352909e924ec48a4579c5743ed507
 6c4992be0e0dd6700dd6813a19c27e5fc98263,/Users/macbook/Desktop/Basic_Java/.git/objects/15/6c4992be0e0dd6700dd6813a19c27e5fc98263
@@ -268,7 +280,9 @@ update.sample,/Users/macbook/Desktop/Basic_Java/.git/hooks/update.sample
 master,/Users/macbook/Desktop/Basic_Java/.git/refs/heads/master
 master,/Users/macbook/Desktop/Basic_Java/.git/refs/remotes/origin/master
 index,/Users/macbook/Desktop/Basic_Java/.git/index
+MERGE_HEAD,/Users/macbook/Desktop/Basic_Java/.git/MERGE_HEAD
 COMMIT_EDITMSG,/Users/macbook/Desktop/Basic_Java/.git/COMMIT_EDITMSG
+FETCH_HEAD,/Users/macbook/Desktop/Basic_Java/.git/FETCH_HEAD
 .COMMIT_EDITMSG.swo,/Users/macbook/Desktop/Basic_Java/.git/.COMMIT_EDITMSG.swo
 .DS_Store,/Users/macbook/Desktop/Basic_Java/Assignment_12/.DS_Store
 Q2.java,/Users/macbook/Desktop/Basic_Java/Assignment_12/Q2.java
