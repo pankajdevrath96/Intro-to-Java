@@ -21,7 +21,7 @@ class myList{
 				}
 				 else if(e.isFile())
 					 f1.add(e);		 
-		 }	 
+		 }	  
 		return f1;
 	}
  }
@@ -50,9 +50,9 @@ class myList{
 	         br = new BufferedReader(new FileReader(fileName));
 	         while ((currentLine = br.readLine()) != null) { 
 	           String [] lineAfterSplit = currentLine.split(",");
-	           System.out.println("Directory Name   :-->   "+  lineAfterSplit[0] + "   File Name  :-->    " + lineAfterSplit[1]);
+	           System.out.println("File Name   :-->   "+  lineAfterSplit[0] + "\nFile Path  :-->    " + lineAfterSplit[1]);
 	         } 
-	     }
+	     } 
 	    
 	 
  }
